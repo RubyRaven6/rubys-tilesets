@@ -10,7 +10,6 @@ dir_aseprite_folder="/mnt/d/Program Files/"
 dir_compiled_primary="/mnt/d/Decomps/pokeemerald-expansion/data/tilesets/primary/"
 dir_compiled_secondary="/mnt/d/Decomps/pokeemerald-expansion/data/tilesets/secondary/"
 metatile_behaviors="/mnt/d/Decomps/pokeemerald-expansion/include/constants/metatile_behaviors.h"
-normalize_py="/mnt/d/Decomps/tilesets/normalize.py"
 
 ## WINDOWS PATH
 dir_aseprite_raw_tilesets="D:/Decomps/tilesets/" 
